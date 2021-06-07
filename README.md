@@ -16,7 +16,8 @@ Subir os containers com o comando: DOCKER-COMPOSE UP
 
 Para acessar basta digitar no navegador o IP que a máquina host do Docker através da porta "8080"
 
-![image](https://user-images.githubusercontent.com/85373388/121060729-69918400-c799-11eb-8ce6-c92f5ccafe0d.png)
+![image](https://user-images.githubusercontent.com/85373388/121061569-62b74100-c79a-11eb-8a42-47e6e63245f7.png)
+
 
 >docker-compose.yaml
 
